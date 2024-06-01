@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: "G-XQZB9HEC8G"
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -133,7 +133,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: production
 
 pwa:
   enabled: true # the option for PWA feature (installable)
