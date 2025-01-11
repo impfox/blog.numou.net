@@ -23,7 +23,7 @@ Thank you very much to [Edtropolis](https://twitter.com/edtropolis) ...
 
 ...and [Smallfryspy](https://twitter.com/smallfryspy)...
 
-![](/assets/images/art/fliprefsheet.png)
+![](/assets/images/art/fliprefsheet.jpg)
 
 ...for the art and ref sheet! 💙
 

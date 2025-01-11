@@ -25,7 +25,7 @@ I got ref sheet of the both of them as well as a little pic done of the two of t
 
 * * *
 
-![](/assets/images/art/FrogSheet.png)
+![](/assets/images/art/FrogSheet.jpg)
 
 Diego, the poison dart frog from Argentina. Art by ramerooni.
 
@@ -35,7 +35,7 @@ Parker LeBlanc, the French-Canadian flamingo jock. Art by JuniorJosi / Tim Lake 
 
 And here's the first pic of the two of them together! They're not in a relationship with one another (yet); just two gay roommates who got a bit flirty in the locker room. 😇
 
-![](/assets/images/art/doodles31.png)
+![](/assets/images/art/doodles31.jpg)
 
 Parker and Diego getting up close and personal. Art by anonymous artist (by their request).
 
