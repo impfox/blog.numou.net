@@ -8,7 +8,7 @@ tags:
   - "pokemon"
   - "underwear"
   - "update"
-image: /assets/images/art/fliprefsheet.png
+image: /assets/images/art/fliprefsheet.jpg
 ---
 
 Hello again, just wanted to quickly show off a new character I got done a little while ago.

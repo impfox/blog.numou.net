@@ -3,7 +3,7 @@ date: 2024-06-01 15:30:00 -0300
 categories: stories clean
 tags: story humilation language meowth cat bunny rabbit pantsing underwear clean flip-argent oc pokemon
 title: "Story: Flip Caught Stealing"
-image: /assets/thumbs/preview_meowth.png
+
 ---
 
 [Link to the FA page for this story](https://www.furaffinity.net/view/56802286/)
@@ -35,8 +35,6 @@ The bun smiled again, looking down at the mouthy cat's waist. "Yeah? Maybe you s
 But before Flip could figure out anything, his feline ears flicked as he heard a sound echo through the air...
 
 *RRRRRIIIIIIIPPPPPP!*
-
-![](/assets/images/art/numou_comm_meowth.png)
 
 In one swift motion, the rabbit dragged his claw from the front seam of the pants, around the side, and back to the rear, going just one layer deep, to spare the white fabric underneath. In seconds, Flip's already torn jeans lost any ounce of structural integrity they still had, and practically disintegrated on the spot. As the last of the jeans fabric fell to the ground, so too did the coins and bills that had once filled the cat's pockets. A torrent of denim and cash rained down on the sidewalk, and the loud sound of both the fabric tearing and the coins pinging onto the concrete drew in the attention of any bystanders within earshot.
 
