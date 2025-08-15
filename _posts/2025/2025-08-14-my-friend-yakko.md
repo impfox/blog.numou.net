@@ -1413,7 +1413,9 @@ He snapped his fingers, and the portal fizzled. Shut down. Vanished before my ey
 
 This was it. I was a goner. I got *imped*. I got the bad ending in an old Amiga point-and-click.
 
-<span class="smallcaps">“You hesitated at the exit. Now you belong to the imp forever. Insert Disk 7 to cry about it.”</span>
+```text
+“You hesitated at the exit. Now you belong to the imp forever. Insert Disk 7 to cry about it.”
+```
 
 I was now going to be a part of the evil demon’s collection. My soul was going to be harvested out of me as slowly as possible, sucked out with the same straw we had just used to share a smoothie together. You know. Just to rub it in. Just to prove how sappy I was.
 
@@ -1827,15 +1829,13 @@ I walked right up to him and gave his blue head fur between his horns a good ruf
 
 The front of it read:
 
-**<span class="smallcaps">“ Yakko Warner</span>**
-
-**<span class="smallcaps">Cartoon character, Comedian, Actor</span>**
-
-**<span class="smallcaps">Warner Bros. Studio</span>**
-
-**<span class="smallcaps">Burbank, California</span>**
-
-**<span class="smallcaps">Totally Insane-y Since 1993”</span>**
+```text
+YAKKO WARNER
+CARTOON CHARACTER, COMEDIAN, ACTOR
+WARNER BROS. STUDIO
+BURBANK, CALIFORNIA
+TOTALLY INSANE-Y SINCE 1993!
+```
 
 He read it over. “So you’ve been at this for a while, huh?” He asked with the perk of his foxish ears.
 
