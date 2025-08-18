@@ -183,7 +183,7 @@ one of the rabbit's arms, wiggling his fingers along the sensitive fur
 there.
 
 ![](/assets/images/art/Glifer.Buster-and-Plucky.jpg)
-> art by ![Glifer on FurAffinity](https://www.furaffinity.net/view/60925670/).
+> art by [Glifer on FurAffinity](https://www.furaffinity.net/view/60925670/).
 
 "AHAHAHAHA! P-PLUHUHUHUCKY!" Buster shouted, squirming about, and
 trying to push the duck's arm away.
