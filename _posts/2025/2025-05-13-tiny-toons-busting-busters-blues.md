@@ -5,7 +5,7 @@ tags: story clean cartoon comedy goofy toon tiny_toons tickling buster_bunny plu
 title: "Story: Tiny Toons: Busting Buster's Blues"
 comments: true
 layout: post
-image: https://d.furaffinity.net/art/glifer/1747674303/1747674303.glifer_comm33.png
+image: /assets/images/art/Glifer.Buster-and-Plucky.jpg
 ---
 
 > I've been feeling kind of down and depressed lately, so I decided
@@ -182,8 +182,8 @@ would surely exploit again in the future. Plucky then moved a hand under
 one of the rabbit's arms, wiggling his fingers along the sensitive fur
 there.
 
-![](https://d.furaffinity.net/art/glifer/1747674303/1747674303.glifer_comm33.png)
-> art by Glifer on FurAffinity.
+![](/assets/images/art/Glifer.Buster-and-Plucky.jpg)
+> art by ![Glifer on FurAffinity](https://www.furaffinity.net/view/60925670/).
 
 "AHAHAHAHA! P-PLUHUHUHUCKY!" Buster shouted, squirming about, and
 trying to push the duck's arm away.
