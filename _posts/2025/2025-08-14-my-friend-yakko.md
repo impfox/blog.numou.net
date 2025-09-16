@@ -5,7 +5,6 @@ tags: story mature cartoon comedy goofy toon animaniacs yakko_warner numou fanfi
 title: "Story: My Friend Yakko"
 comments: true
 layout: post
-
 ---
 
 > This is it, the longest story I've written to date,
